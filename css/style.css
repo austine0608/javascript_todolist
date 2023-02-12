@@ -1,0 +1,12 @@
+#demo{
+    background-color:brown;
+    width:500px;
+    height:300px;
+    border-radius:10px;
+    box-shadow:7px 7px 7px 7px black;
+    transition:all 1s;
+    color: white;
+}
+#demo:hover{
+    transform:scale(1.1);
+}
